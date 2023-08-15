@@ -34,7 +34,7 @@
 **hello-rails-back-end** is a back-end application for APIs only.
 
 ## 🛠 Front-End-Link <a name="built-with"></a>
-[Front end link](https://github.com/ikoote1/hello-react-front-end.git)
+[Front end link](https://github.com/ikoote1/hello-react-front-end/pull/2)
 
 ### Tech Stack <a name="tech-stack"></a>
 
