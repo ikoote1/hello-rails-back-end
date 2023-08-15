@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>hello-rails-back-end</b></h1>
+  <h1><b>Hello-rails-back-end</b></h1>
 
 </div>
 
@@ -33,7 +33,8 @@
 
 **hello-rails-back-end** is a back-end application for APIs only.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Front-End-Link <a name="built-with"></a>
+[Front end link](https://github.com/ikoote1/hello-react-front-end.git)
 
 ### Tech Stack <a name="tech-stack"></a>
 
